@@ -9,7 +9,7 @@ This git respository shows the work that Chao Glen Xu has done for this iOS game
 
 The video demo for this project: https://youtu.be/rjmNvq4ulk0
 
-This iOS game is compatible for iphone 6,iphone 6s, iphone 7, iphone 8, iphone x,iphone xr, iphone 11 and iphone 12
+This iOS game is compatible for iphone 6,iphone 6s, iphone 7, iphone 8, iphone x,iphone xr, iphone 11, iphone 12 and etc
 
 This iOS game looks like this: 
 
